@@ -96,7 +96,7 @@ Semua output ditinjau ulang sebelum dipakai.
 - 👉 AI tidak dipakai dalam produk final yang dideploy.
 
 ## 📸 Sample Gameplay
-(tambahkan screenshot hasil deploy di sini)
+![Alt Text](public/screenshot-home.png)
 
 ## 🌍 Contribution to SDG
 Proyek ini mendukung SDG 4 – Quality Education dengan menjadi contoh penerapan praktis teknologi AI dalam pendidikan software engineering.
