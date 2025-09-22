@@ -61,7 +61,7 @@ memory-card-game/
 2. **Flip logic** → klik satu kartu akan membukanya, klik kartu kedua akan dibandingkan:  
    - Jika cocok → tetap terbuka + skor +100.  
    - Jika salah → otomatis tertutup lagi setelah 1 detik.  
-3. **Timer berjalan** → +1 detik setiap detik, skor -10 per detik.  
+3. **Timer berjalan** → +1 detik setiap detik, skor -2 per detik.  
 4. **Restart game** → reset langkah, timer, dan skor.  
 5. **Win condition** → semua kartu terbuka, timer berhenti.  
 
