@@ -79,7 +79,7 @@ memory-card-game/
 3. **Run locally**:
    ```bash
    npm run dev
-Buka http://localhost:3000
+   Buka http://localhost:3000
 4. **Build for production**:
    ```bash
    npm run build
