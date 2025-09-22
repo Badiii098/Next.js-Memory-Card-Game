@@ -73,7 +73,17 @@ memory-card-game/
    ```bash
    git clone <repo-url>
    cd memory-card-game
-
+2. **Install dependencies**:
+   ```bash
+   npm install
+3. **Run locally**:
+   ```bash
+   npm run dev
+Buka http://localhost:3000
+4. **Build for production**:
+   ```bash
+   npm run build
+   npm start
 
 ## 🤖 AI Support (Development Only)
 
