@@ -75,23 +75,21 @@ memory-card-game/
    cd memory-card-game
 
 
-🤖 AI Support (Development Only)
+## 🤖 AI Support (Development Only)
 
 Selama pengembangan, IBM Granite digunakan untuk:
-📝 Membuat boilerplate komponen (Card & GameBoard).
-⚡ Mengoptimasi fungsi shuffle & timer.
-📖 Membantu membuat dokumentasi README.
-
+- 📝 Membuat boilerplate komponen (Card & GameBoard).
+- ⚡ Mengoptimasi fungsi shuffle & timer.
+- 📖 Membantu membuat dokumentasi README.
 Granite diakses melalui Hugging Face Inference API menggunakan skrip dev (/scripts).
 Semua output ditinjau ulang sebelum dipakai.
-👉 AI tidak dipakai dalam produk final yang dideploy.
+- 👉 AI tidak dipakai dalam produk final yang dideploy.
 
-📸 Sample Gameplay
+## 📸 Sample Gameplay
 (tambahkan screenshot hasil deploy di sini)
 
-🌍 Contribution to SDG
+## 🌍 Contribution to SDG
 Proyek ini mendukung SDG 4 – Quality Education dengan menjadi contoh penerapan praktis teknologi AI dalam pendidikan software engineering.
 
-📜 License
-Proyek ini open-source di bawah lisensi MIT.
+## 📜 License
 Silakan gunakan, modifikasi, dan bagikan sesuai kebutuhan.
