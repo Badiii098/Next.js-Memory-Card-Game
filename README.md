@@ -34,25 +34,25 @@ Proyek ini dibuat sebagai **Capstone Project**, dengan pemanfaatan **IBM Granite
 
 ---
 
-## 📁 Project Directory Structure  
+## 📁 Project Directory Structure
 
+```bash
 memory-card-game/
 ├── app/
-│ ├── globals.css # Global styles
-│ ├── layout.tsx # Root layout with globals.css import
-│ └── page.tsx # Main entry – renders GameBoard
+│   ├── globals.css          # Global styles
+│   ├── layout.tsx           # Root layout with globals.css import
+│   └── page.tsx             # Main entry – renders GameBoard
 ├── components/
-│ ├── Card.tsx # Single card component (flip animation)
-│ └── GameBoard.tsx # Game logic & UI
-├── public/ # Static assets (icons, etc)
-├── scripts/ # Dev-only scripts to call Granite API
-│ ├── hf_generate_snippet.js
-│ └── hf_optimize_snippet.py
-├── next.config.js # Next.js config
+│   ├── Card.tsx             # Single card component (flip animation)
+│   └── GameBoard.tsx        # Game logic & UI
+├── public/                  # Static assets (icons, etc)
+├── scripts/                 # Dev-only scripts to call Granite API
+│   ├── hf_generate_snippet.js
+│   └── hf_optimize_snippet.py
+├── next.config.js           # Next.js config
 ├── package.json
 └── README.md
-
-
+```
 ---
 
 ## 💡 How It Works  
