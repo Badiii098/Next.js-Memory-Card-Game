@@ -1,0 +1,5 @@
+Refactor this shuffle function into a proper Fisher-Yates implementation, optionally support 'seed' parameter for reproducible shuffles in JS:
+
+function shuffle(array) {
+  return array.sort(() => Math.random() - 0.5);
+}
